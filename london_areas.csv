@@ -1,0 +1,291 @@
+,Area,Borough,Latitude,Longitude
+0,Abbey Wood,Bexley,51.4910602,0.1212157
+1,Acton,Ealing,51.5081402,-0.2732607
+2,Aldgate,City,51.5142477,-0.0757186
+3,Aldwych,Westminster,51.513103,-0.1149205
+4,Anerley,Bromley,51.4075993,-0.0619394
+5,Angel,Islington,51.5319458,-0.1061056
+6,Archway,Islington,51.5654371,-0.1349977
+7,Arnos Grove,Enfield,51.6164024,-0.1332873
+8,Balham,Wandsworth,51.4456449,-0.1503643
+9,Bankside,Southwark,51.508302,-0.0962967
+10,Barbican,City,51.5201501,-0.0986832
+11,Barnes,Richmond upon Thames,51.4718962,-0.2387441
+12,Barnsbury,Islington,51.5389351,-0.114735
+13,Battersea,Wandsworth,51.4707933,-0.172214
+14,Bayswater,Westminster,51.5122764,-0.1883854
+15,Bedford Park,Ealing,51.498020100000005,-0.25564718577152973
+16,Belgravia,Westminster,51.4982128,-0.1534998
+17,Bellingham,Lewisham,51.4329913,-0.0193662
+18,Belsize Park,Camden,51.5473926,-0.1683005
+19,Bermondsey,Southwark,51.4977004,-0.0643453
+20,Bethnal Green,Tower Hamlets,51.5303456,-0.0561633
+21,Blackfriars,City,51.5115854,-0.1037671
+22,Blackheath,Lewisham,51.4663175,0.0085624
+23,Blackheath Royal Standard,Greenwich,51.4777351,0.0204897
+24,Blackwall,Tower Hamlets,51.5065004,-0.0064024
+25,Bloomsbury,Camden,51.523126,-0.1260664
+26,Bounds Green,Haringey,51.607376,-0.1249047
+27,Bow,Tower Hamlets,51.5283085,-0.0194816
+28,Bowes Park,Haringey,51.6071861,-0.1204848
+29,Brent Cross,Barnet,51.5767595,-0.2183801
+30,Brent Park,Brent,51.537126,-0.2786261
+31,Brixton,Lambeth,51.4568044,-0.1167959
+32,Brockley,Lewisham,51.4578328,-0.0360868
+33,Bromley ,Tower Hamlets,51.5266309,-0.0172319
+34,Brondesbury,Brent,51.5450493,-0.2025961
+35,Brunswick Park,Barnet,51.6262191,-0.1481899
+36,"Burroughs, The",Barnet,51.5863721,-0.2303106
+37,Camberwell,Southwark,51.4745706,-0.0925416
+38,Cambridge Heath,Tower Hamlets,51.5319544,-0.0574215
+39,Camden Town,Camden,51.5423045,-0.1395604
+40,Canary Wharf,Tower Hamlets,51.50562,-0.0257169
+41,Canning Town,Newham,51.5139887,0.0082987
+42,Canonbury,Islington,51.5430358,-0.0954008
+43,Castelnau,Richmond upon Thames,51.4874287,-0.2312276
+44,Catford,Lewisham,51.4453215,-0.0197534
+45,Chalk Farm,Camden,51.5441141,-0.1534811
+46,Charing Cross,Westminster,51.5074975,-0.1236888
+47,Charlton,Greenwich,51.4826053,0.0365359
+48,Chelsea,Kensington and Chelsea,51.4875417,-0.1682205
+49,Childs Hill,Barnet,51.5629822,-0.1972494
+50,Chinatown,Westminster,51.511680299999995,-0.1304959294095688
+51,Chinbrook,Lewisham,51.4294489,0.0330024
+52,Chingford,Waltham Forest,51.6325345,0.009471
+53,Chiswick,Hounslow,51.4923137,-0.263818
+54,Church End,Brent,51.576985,-0.2189016
+55,Church End,Barnet,51.601117,-0.1918901
+56,Clapham,Lambeth,51.4622924,-0.1388561
+57,Clerkenwell,Islington,51.5237268,-0.1055555
+58,Colindale,Barnet,51.5954091,-0.2499296
+59,Colliers Wood,Merton,51.4182747,-0.1778626
+60,Colney Hatch,Barnet,51.6025172,-0.1480126
+61,Covent Garden,Westminster,51.512873600000006,-0.12254367918576929
+62,Cricklewood,Barnet,51.5566986,-0.2157507
+63,Crofton Park,Lewisham,51.4552107,-0.0366376
+64,Crossness,Bexley,51.501917649999996,0.1514107338698154
+65,Crouch End,Haringey,51.5787402,-0.1235992
+66,Crystal Palace,Bromley,51.4193664,-0.0711328
+67,Cubitt Town,Tower Hamlets,51.4936677,-0.0082433
+68,Dalston,Hackney,51.5434023,-0.0672286
+69,Denmark Hill,Southwark,51.468043,-0.0896031
+70,Deptford,Lewisham,51.4758453,-0.0215164
+71,Dollis Hill,Brent,51.5519625,-0.2390214
+72,Dulwich,Southwark,51.4418786,-0.0843244
+73,Ealing,Ealing,51.5126553,-0.3051952
+74,Earls Court,Kensington and Chelsea,51.4916123,-0.193903
+75,Earlsfield,Wandsworth,51.4464482,-0.1893941
+76,East Dulwich,Southwark,51.4615604,-0.0803888
+77,East Finchley,Barnet,51.5871881,-0.1648137
+78,East Ham,Newham,51.5394005,0.0526042
+79,East Sheen,Richmond upon Thames,51.4623706,-0.267094
+80,Edmonton,Enfield,51.6203392,-0.0659791
+81,Elephant and Castle,Southwark,51.4948884,-0.1005731
+82,Eltham,Greenwich,51.4505687,0.0541253
+83,Farringdon,Islington,51.5201241,-0.1047928
+84,Finchley,Barnet,51.5973246,-0.1805587
+85,Finsbury,Islington,51.5265742,-0.1070713
+86,Finsbury Park,Haringey,51.5703386,-0.10100029631361894
+87,Fitzrovia,Camden,51.5187642,-0.1410017
+88,Forest Gate,Newham,51.5495236,0.0249248
+89,Forest Hill,Lewisham,51.4392419,-0.0530903
+90,Fortis Green,Haringey,51.590997,-0.1534208
+91,Friern Barnet,Barnet,51.6128484,-0.158614
+92,Frognal,Camden,51.5575003,-0.1817922
+93,Fulham,Hammersmith and Fulham,51.4744221,-0.2060772
+94,Gipsy Hill,Lambeth,51.4247042,-0.0845885
+95,Golders Green,Barnet,51.5718315,-0.1955219
+96,Gospel Oak,Camden,51.5554865,-0.151577
+97,Grahame Park,Barnet,51.6028898,-0.244866
+98,Grange Park,Enfield,51.6433292,-0.0969391
+99,Greenwich,Greenwich,51.4820845,-0.0045417
+100,Grove Park,Hounslow,51.4770933,-0.3402418
+101,Grove Park,Lewisham,51.4318969,0.0212344
+102,Gunnersbury,Hounslow,51.4913757,-0.2755244
+103,Hackney,Hackney,51.5432402,-0.0493621
+104,Hackney Central,Hackney,51.5470605,-0.0568749
+105,Hackney Marshes,Hackney,51.55649645,-0.029171864933870008
+106,Hackney Wick,Hackney,51.543433,-0.0240839
+107,Haggerston,Hackney,51.5385184,-0.0753811
+108,The Hale,Barnet,51.618006,-0.256795
+109,Hammersmith,Hammersmith and Fulham,51.4920377,-0.2236401
+110,Hampstead,Camden,51.5542879,-0.1740747
+111,Hampstead Garden Suburb,Barnet,51.5805081,-0.1806164
+112,Hanwell,Ealing,51.5089838,-0.3381584
+113,Harlesden,Brent,51.5363567,-0.257833
+114,Harringay,Haringey,51.5773885,-0.1053581
+115,Hendon,Barnet,51.581053350000005,-0.226820363375403
+116,Herne Hill,Lambeth,51.4534691,-0.1022835
+117,Highams Park,Waltham Forest,51.6088927,-0.0001301
+118,Highbury,Islington,51.5457996,-0.1027127
+119,Highgate,Camden,51.5744322,-0.1526837
+120,Hither Green,Lewisham,51.4514446,-0.0004955
+121,Holborn,Camden,51.5179341,-0.1195284
+122,Holland Park,Kensington and Chelsea,51.50301195,-0.20414761379575316
+123,Holloway,Islington,51.5572453,-0.1183706
+124,Homerton,Hackney,51.5470789,-0.043121
+125,Honor Oak,Lewisham,51.4499075,-0.0399142
+126,Horn Park,Greenwich,51.4472867,0.0260585
+127,Hornsey,Haringey,51.5863215,-0.1116832
+128,Hoxton,Hackney,51.5312914,-0.0758535
+129,The Hyde,Barnet,51.5907988,-0.2556949
+130,Isle of Dogs,Tower Hamlets,51.4978447,-0.0168854
+131,Islington,Islington,51.5384287,-0.0999051
+132,Kennington,Lambeth,51.4824378,-0.1116818
+133,Kensal Green,Brent,51.5306063,-0.2244449
+134,Kensington,Kensington and Chelsea,51.4989948,-0.1991229
+135,Kentish Town,Camden,51.5500658,-0.1425625
+136,Kidbrooke,Greenwich,51.4675731,0.0285241
+137,Kilburn,Brent,51.5469889,-0.2053385
+138,Kingsbury,Brent,51.5843174,-0.2787137
+139,Kingston Vale,Kingston upon Thames,51.43185,-0.2581379
+140,Knightsbridge,Westminster,51.5017546,-0.1608199
+141,Ladywell,Lewisham,51.4560257,-0.0191917
+142,Lambeth,Lambeth,51.5013012,-0.117287
+143,Lea Bridge,Hackney,51.562141499999996,-0.045734448334317473
+144,Leamouth,Tower Hamlets,51.5113635,0.0004214
+145,Lee,Lewisham,51.4496826,0.0145036
+146,Lewisham,Lewisham,51.4624325,-0.0101331
+147,Leyton,Waltham Forest,51.5696734,-0.015681
+148,Leytonstone,Waltham Forest,51.5688027,0.0086166
+149,Limehouse,Tower Hamlets,51.5133074,-0.0351492
+150,Lisson Grove,Westminster,51.5263592,-0.1718219
+151,Little Ilford,Newham,51.550298,0.0625225
+152,Little Venice,Westminster,51.5211948,-0.1824045
+153,Lower Clapton,Hackney,51.5546565,-0.0550912
+154,Maida Vale,Westminster,51.5297928,-0.1857906
+155,Manor House,Hackney,51.5703208,-0.0963971
+156,Manor Park,Newham,51.5506867,0.0476391
+157,Maryland,Newham,51.5460532,0.0059223
+158,Marylebone ,Westminster,51.5222363,-0.1635046
+159,Mayfair,Westminster,51.5110872,-0.147058
+160,Maze Hill,Greenwich,51.482607,0.0038458
+161,Merton Park,Merton,51.4079938,-0.2019654
+162,Middle Park,Greenwich,51.4453135,0.0400849
+163,Mile End,Tower Hamlets,51.5253378,-0.033435
+164,Mill Hill,Barnet,51.6154423,-0.2330675
+165,Millbank,Westminster,51.4926121,-0.1290435
+166,Millwall,Tower Hamlets,51.4933423,-0.0212187
+167,Mortlake,Richmond upon Thames,51.4680686,-0.2669404
+168,Mottingham,Bromley,51.431026599999996,0.043265575181889795
+169,Nag's Head,Islington,51.5338502,-0.1058267
+170,Neasden,Brent,51.5543358,-0.250749
+171,New Cross,Lewisham,51.4763706,-0.0326237
+172,New Eltham,Greenwich,51.4362297,0.0685289
+173,New Southgate,Barnet,51.6140016,-0.1430349
+174,Newington,Southwark,51.4921753,-0.1019873
+175,Nine Elms,Wandsworth,51.4787433,-0.1362629
+176,Norbury,Croydon,51.4110663,-0.1224869
+177,North Finchley,Barnet,51.6124905,-0.1756922
+178,North Kensington,Kensington and Chelsea,51.5196647,-0.2106959
+179,North Woolwich,Newham,51.5004071,0.064154
+180,Notting Hill,Kensington and Chelsea,51.5109995,-0.2055267
+181,Nunhead,Southwark,51.4668348,-0.0523755
+182,Oakleigh Park,Barnet,51.6377516,-0.1662835
+183,Old Ford,Tower Hamlets,51.5341124,-0.0268215
+184,Old Oak Common,Hammersmith and Fulham,51.52921055,-0.2409410474285966
+185,Osidge,Barnet,51.632198,-0.1430039
+186,Oval,Lambeth,51.48375215,-0.11496182711601476
+187,Paddington,Westminster,51.5170856,-0.1775422
+188,Palmers Green,Enfield,51.6183704,-0.110499
+189,Parsons Green,Hammersmith and Fulham,51.4750837,-0.201549
+190,Peckham,Southwark,51.4734122,-0.0699321
+191,Penge,Bromley,51.4146841,-0.0534213
+192,Pentonville,Islington,51.5318579,-0.1084232
+193,Pimlico,Westminster,51.4891886,-0.1335498
+194,Plaistow,Newham,51.5311544,0.0166833
+195,Plumstead,Greenwich,51.4804635,0.0924286
+196,Poplar,Tower Hamlets,51.5110713,-0.0144629
+197,Primrose Hill,Camden,51.5390165,-0.16193786284392453
+198,Putney,Wandsworth,51.4609339,-0.2153478
+199,Queen's Park,Brent,51.533873,-0.2054958
+200,Ratcliff,Tower Hamlets,51.50966675,-0.04236020307928713
+201,Raynes Park,Merton,51.408966,-0.23054
+202,Roehampton,Wandsworth,51.4498773,-0.2412672
+203,Rotherhithe,Southwark,51.5007782,-0.0519063
+204,Sands End,Hammersmith and Fulham,51.4725454,-0.1871122
+205,Selhurst,Croydon,51.3922136,-0.0886537
+206,Seven Sisters,Haringey,51.5824738,-0.0749325
+207,Shacklewell,Hackney,51.5523761,-0.0701582
+208,Shadwell,Tower Hamlets,51.51125,-0.0569241
+209,Shepherd's Bush,Hammersmith and Fulham,51.5043576,-0.2183251
+210,Shooter's Hill,Greenwich,51.4692255,0.066306
+211,Shoreditch,Hackney,51.5266694,-0.0798926
+212,Silvertown,Newham,51.5013626,0.0385185
+213,Snaresbrook,Redbridge,51.5831734,0.0228777
+214,Soho,Westminster,51.513075099999995,-0.13497437226805903
+215,South Hackney,Hackney,51.5432402,-0.0493621
+216,South Kensington,Kensington and Chelsea,51.4940494,-0.1730439
+217,South Norwood,Croydon,51.3980951,-0.0768216
+218,South Wimbledon,Merton,51.4151759,-0.1926457
+219,South Woodford,Redbridge,51.5917798,0.0274276
+220,South Tottenham,Haringey,51.5804433,-0.0717169
+221,Southend,Lewisham,51.4203458,-0.0218651
+222,Southfields,Wandsworth,51.4457751,-0.2066142
+223,Southgate,Enfield,51.6281547,-0.123596
+224,Spitalfields,Tower Hamlets,51.5195274,-0.0751701
+225,St James's,Westminster,51.5079082,-0.1365727
+226,St Giles,Camden,51.5160098,-0.1219057
+227,St Johns,Lewisham,51.4690905,-0.0221846
+228,St John's Wood,Westminster,51.531726,-0.1741901
+229,St Luke's,Islington,51.5268671,-0.0959005
+230,St Pancras,Camden,51.5322906,-0.1259994
+231,Stamford Hill,Hackney,51.5744324,-0.0766481
+232,Stepney,Tower Hamlets,51.5174023,-0.0462189
+233,Stockwell,Lambeth,51.472211,-0.1225014
+234,Stoke Newington,Hackney,51.5576971,-0.0772816
+235,Stonebridge,Brent,51.5441099,-0.2762285
+236,Stratford,Newham,51.541289,-0.0035472
+237,Streatham,Lambeth,51.429769,-0.1311105
+238,Stroud Green,Haringey,51.5716864,-0.1114972
+239,Surrey Quays,Southwark,51.4934207,-0.0478319
+240,Swiss Cottage,Camden,51.543722,-0.174982
+241,Sydenham ,Lewisham,51.4269433,-0.0545387
+242,Sydenham Hill,Lewisham,51.4380517,-0.0636815
+243,Temple,City,51.5109659,-0.1143345
+244,Tooting,Wandsworth,51.4266588,-0.1690768
+245,Tooting Bec,Wandsworth,51.4356086,-0.1596548
+246,Tottenham,Haringey,51.5881223,-0.0599366
+247,Tottenham Green,Haringey,51.58775405,-0.07147608181567411
+248,Tottenham Hale,Haringey,51.5881223,-0.0599366
+249,Totteridge,Barnet,51.6331335,-0.2008636
+250,Tower Hill,Tower Hamlets,51.5098481,-0.0766986
+251,Tufnell Park,Islington,51.5568005,-0.138457
+252,Tulse Hill,Lambeth,51.439867,-0.1050481
+253,Turnpike Lane,Haringey,51.5888928,-0.1099938
+254,Upper Clapton,Hackney,51.5668384,-0.0605697
+255,Upper Holloway,Islington,51.563474,-0.1296473
+256,Upper Norwood,Croydon,51.4164053,-0.0940347
+257,Upper Walthamstow,Waltham Forest,51.5879893,0.0020978
+258,Upton Park,Newham,51.5351062,0.0339842
+259,Vauxhall,Lambeth,51.4858478,-0.1227502
+260,Walthamstow,Waltham Forest,51.5844701,-0.0188186
+261,Walthamstow Village,Waltham Forest,51.5836835,-0.0121451
+262,Walworth,Southwark,51.4901142,-0.0906603
+263,Wandsworth,Wandsworth,51.4570271,-0.1932607
+264,Wanstead,Redbridge,51.575646,0.0286373
+265,Wapping,Tower Hamlets,51.5054363,-0.0587291
+266,Well Hall,Greenwich,51.4574683,0.0501437
+267,West Brompton,Kensington and Chelsea,51.4869765,-0.1951854
+268,West Ealing,Ealing,51.5135091,-0.3207704
+269,West Green,Haringey,51.5868063,-0.0898489
+270,West Hackney,Hackney,51.5608595,-0.0691322
+271,West Ham,Newham,51.5280966,0.0045685
+272,West Hampstead,Camden,51.5468194,-0.1899646
+273,West Heath,Bexley,51.4808745,0.1273574
+274,West Hendon,Barnet,51.578213,-0.2403793
+275,West Kensington,Hammersmith and Fulham,51.4906622,-0.205916
+276,West Norwood,Lambeth,51.4346192,-0.1036917
+277,Westcombe Park,Greenwich,51.4842204,0.0188787
+278,Westminster,Westminster,51.5013562,-0.1249302
+279,Whetstone,Barnet,51.6301762,-0.1748844
+280,White City,Hammersmith and Fulham,51.5119347,-0.2242361
+281,Whitechapel,Tower Hamlets,51.5186227,-0.0620807
+282,Willesden,Brent,51.5466216,-0.2358661
+283,Wimbledon,Merton,51.4214787,-0.2064027
+284,Winchmore Hill,Enfield,51.6333948,-0.1033617
+285,Wood Green,Haringey,51.597416,-0.1097795
+286,Woodford,Redbridge,51.6068055,0.0340119
+287,Woodside Park,Barnet,51.6179483,-0.1855794
+288,Woolwich,Greenwich,51.4826696,0.0623335
+289,Wormwood Scrubs,Hammersmith and Fulham,51.52137985,-0.24043929057201105
